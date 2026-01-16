@@ -1,0 +1,24 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "just for read and write query",
+  "homepage": "https://github.com/Hemitha2000/SQL#readme",
+  "bugs": {
+    "url": "https://github.com/Hemitha2000/SQL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemitha2000/SQL.git"
+  },
+  "license": "ISC",
+  "author": "hema",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
